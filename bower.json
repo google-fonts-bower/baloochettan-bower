@@ -1,0 +1,17 @@
+{
+    "name": "baloochettan-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ek Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/baloochettan-bower.git"
+    },
+    "description": "Baloo Chettan font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
